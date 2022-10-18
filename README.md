@@ -2,13 +2,12 @@
 
 ### Howdy
 
-<!--
-**MrRedBeard/MrRedBeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... something
 - 🌱 I’m currently learning something new everyday
+
+<!--
+
+Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on crossplatform multi use solutions
 - 🤔 I’m looking for help with ... take a look and see what appeals 
 - 💬 Ask me about ...
