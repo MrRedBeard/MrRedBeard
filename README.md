@@ -1,4 +1,4 @@
-[![@MrRedBeard's Holopin board](https://holopin.io/api/user/board?user=MrRedBeard)](https://holopin.io/@MrRedBeard)
+[![@MrRedBeard's Holopin board](https://holopin.io/api/user/board?user=mrredbeard)](https://holopin.io/@mrredbeard)
 
 ### Howdy
 
