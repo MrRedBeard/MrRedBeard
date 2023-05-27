@@ -2,7 +2,7 @@
 
 ### Howdy
 
-[](https://holopin.onrender.com/MrRedBeard?style=flat-square])](https://holopin.io/@MrRedBeard)
+[@MrRedBeard on holopin.io](https://holopin.io/@MrRedBeard)
 
 - 🔭 I’m currently working on ... something
 - 🌱 I’m currently learning something new everyday
